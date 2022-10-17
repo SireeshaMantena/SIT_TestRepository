@@ -7,6 +7,8 @@ public class GIT_LocalClass {
 
 		
 		 System.out.println(" im just local class");
+		 System.out.println(" im just Testing  class");
+		
 	}
 
 }
